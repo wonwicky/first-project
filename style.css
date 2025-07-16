@@ -9,6 +9,7 @@
         width:100%;
         height: 100vh;
         background:linear-gradient(90deg, rgb(8,8,67),rgb (05,1,18),rgb(8,8,67));
+        
 }
 
 .parent{
@@ -162,7 +163,6 @@ ul li #sub:hover{
 .left button:hover{
         background-color: rgb(42,0,93);
         box-shadow:0 0 10px white;
-
 }
 
 
